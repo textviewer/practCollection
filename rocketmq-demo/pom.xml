@@ -12,10 +12,20 @@
     <artifactId>rocketmq-demo</artifactId>
 
     <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>org.apache.rocketmq</groupId>-->
+<!--            <artifactId>rocketmq-client-java</artifactId>-->
+<!--            <version>5.0.0</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>org.apache.rocketmq</groupId>
-            <artifactId>rocketmq-client-java</artifactId>
-            <version>5.0.0</version>
+            <artifactId>rocketmq-acl</artifactId>
+            <version>4.9.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.rocketmq</groupId>
+            <artifactId>rocketmq-client</artifactId>
+            <version>4.9.2</version>
         </dependency>
     </dependencies>
 
