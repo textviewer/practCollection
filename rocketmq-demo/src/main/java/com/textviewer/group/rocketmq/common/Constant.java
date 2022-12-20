@@ -8,7 +8,7 @@ public class Constant {
     // consumer
     public static final String CONSUMER_GROUP = "please_rename_unique_group_name_4";
     public static final String DEFAULT_NAMESRVADDR = "192.168.88.128:9876";
-    public static final String TOPIC = "TopicTest";
+    public static final String TOPIC = "TopicTest1234";
 
     // producer
     public static final String PRODUCER_GROUP = "Please_rename_unique_group_name";
